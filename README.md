@@ -185,3 +185,4 @@ Should you need modifications or adjustments to your course requirements because
 ### Reasonable Accommodations for Students with Disabilities ###
 
 If a student requires an accommodation based on disability, the student should meet with me in my office during the first week of the semester. Student responsibility primarily rests with informing faculty at the beginning of the semester and in providing authorized documentation through designated administrative channels. The Disability Resource Center is located in Goddard Hall (405-325-3852).
+Hello World!
