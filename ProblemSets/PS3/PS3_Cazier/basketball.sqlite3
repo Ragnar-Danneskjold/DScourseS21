@@ -1,0 +1,13 @@
+PRAGMA foreign_keys=OFF;
+BEGIN TRANSACTION;
+CREATE TABLE "basketball" (
+	Season INTEGER,
+	Daynum INTEGER,
+	WteamID INTEGER,
+	Wscore INTEGER,
+	LteamID INTEGER,
+	Lscore INTEGER,
+	Wloc CHAR(1),
+	NumOT INTEGER
+);
+COMMIT;
