@@ -1,0 +1,10 @@
+The steps to replicate the results are very simple, the Python code does everything nessecary. 
+Once the code is downloaded, however, one change must be made before it can be run. 
+The code needs the filepath to the data used for the models. 
+Open the Python script, and change the variable "loc" to be equivalent to a string representing the filepath to the downloaded data. 
+For example, my loc variable = "C:\\Users\\wonde\\OneDrive\\Documents\\PythonReadyDSProjCop.xls". The double backslashes are nessecary, do not use a singe \ of course. 
+Once this is changed, run the code. It will print the results to the console autmatically. No other changes are nessecary. 
+
+The dataset used for this is the "PythonReadyDSProjCop". The other dataset was included simply to be a reference and show where the smaller dataset was extracted from. 
+The data used in the code has a column "Randomization". This imports a random number that the table can be sorted by to ensure a random subset of the data is held back for training.
+The current order of the table reflects the data as it was last used by the code. Note that Changing the randomization order by resorting will change the subset used for training/testing, and cause the sheet to generate a new set of random numbers. 
